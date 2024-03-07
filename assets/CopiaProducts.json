@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"title": "mesa",
+		"description": "mesa negra",
+		"price": 102000,
+		"thumbnail": "https://google.com",
+		"code": "1a",
+		"stock": 8,
+		"status": true,
+		"category": "living"
+	},
+	{
+		"id": 2,
+		"title": "silla",
+		"description": "silla negra",
+		"price": 55500,
+		"thumbnail": "https://google.com",
+		"code": "2b",
+		"stock": 30,
+		"status": true,
+		"category": "living"
+	},
+	{
+		"id": 3,
+		"title": "sillon",
+		"description": "sillon blanco",
+		"price": 150800,
+		"thumbnail": "https://google.com",
+		"code": "3c",
+		"stock": 6,
+		"status": true,
+		"category": "living"
+	},
+	{
+		"id": 4,
+		"title": "escritorio",
+		"description": "escritorio vidrio templado",
+		"price": 125400,
+		"thumbnail": "https://google.com",
+		"code": "4d",
+		"stock": 12,
+		"status": true,
+		"category": "living"
+	},
+	{
+		"id": 5,
+		"title": "mesita de luz",
+		"description": "mesita de luz, dormitorio",
+		"price": 95000,
+		"thumbnail": "https://google.com",
+		"code": "5e",
+		"stock": 16,
+		"status": true,
+		"category": "dormitorio"
+	},
+	{
+		"id": 6,
+		"title": "cama sommier",
+		"description": "cama y sommier de dos plazas con colchón",
+		"price": 300500,
+		"thumbnail": "https://google.com",
+		"code": "6f",
+		"stock": 10,
+		"status": true,
+		"category": "dormitorio"
+	},
+	{
+		"id": 7,
+		"title": "camastro",
+		"description": "camastro de una plaza con colchón",
+		"price": 230800,
+		"thumbnail": "https://google.com",
+		"code": "7g",
+		"stock": 6,
+		"status": true,
+		"category": "dormitorio"
+	},
+	{
+		"id": 8,
+		"title": "mesa ratona",
+		"description": "mesa ratona beige, madera",
+		"price": 175200,
+		"thumbnail": "https://google.com",
+		"code": "8h",
+		"stock": 12,
+		"status": true,
+		"category": "living"
+	},
+	{
+		"id": 9,
+		"title": "placard",
+		"description": "placard madera beige de 2mts",
+		"price": 385000,
+		"thumbnail": "https://google.com",
+		"code": "9i",
+		"stock": 25,
+		"status": true,
+		"category": "dormitorio"
+	},
+	{
+		"id": 10,
+		"title": "cajonera",
+		"description": "cajonera madera color blanco",
+		"price": 112000,
+		"thumbnail": "https://google.com",
+		"code": "10j",
+		"stock": 22,
+		"status": true,
+		"category": "dormitorio"
+	}
+]
